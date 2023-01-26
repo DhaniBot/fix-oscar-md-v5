@@ -4,8 +4,8 @@ global.namebot = 'Danzbotz'
 global.rowner = ['6289523573658', '6289523573658'] // Real Owner Bot
 global.owner = ['6289523573658'] // Owner Bot
 global.police = [] // Police Bot
-global.mods = []  // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['6289523573658']  // Want some help?
+global.prems = ['6289523573658'] // Premium user has unlimited limit
 
 global.helper = ['6289523573658']
 global.api = '45083080630f3830a5bed882'
