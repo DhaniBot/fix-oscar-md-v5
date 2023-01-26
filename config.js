@@ -77,11 +77,11 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 //global sosialmedia Danz-Bot
-global.sc = "⫹⫺ Nih Jangan Lupa Kasih Subrek https://youtube.com/@fuadxyro5248"
+global.sc = "_"
 global.sgc = 'https://chat.whatsapp.com/Blom Ada'
 global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 global.instagram = '⫹⫺ Nih Jangan Lupa Follow Ga main'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@fuadxyro5248'
+global.ytowner = '_'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 // Sticker WM
